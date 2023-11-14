@@ -1,0 +1,7 @@
+clone-Bring a repository that is hosted somewhere like github into a folder
+of your local machine
+add-Track your files and changes in git
+commit-save your files in git
+push-upload git to remote repo like github
+pull-download changes form remote repo to local machine,
+the opposite of push

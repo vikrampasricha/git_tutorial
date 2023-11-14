@@ -1,0 +1,7 @@
+Directory-folder
+terminal or commandline-interface for text commands
+CLI-coommand line interface
+cd-change Directory
+code editor-word Processor for writing code
+repository-Project,or the folder/place where your project is kept
+Github-a website to host your repository online

@@ -1,0 +1,4 @@
+if we go to commit changes
+greencolor-new changes
+redcolor-old as it was
+white-which remain same
