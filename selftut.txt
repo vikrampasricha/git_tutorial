@@ -1,0 +1,22 @@
+A-steps to save local code to github
+git - status -this commands helps to identify which files have changes or are created new and need to be commited
+git add . -this commands add all files that are created new or there are changes
+git commit -m "msg for this particular comit"-this command is to commit all the changes in add
+git push main -it is to push all the changes to the respository in remote github respository
+git init -to create new respository
+
+
+
+B-steps if we have created new respository local and to push it to github
+1-go to that respository
+2(git init)-this instialises the respository
+3(git add .)-add all changes
+4(git commit -m "msg")-commit all the changes
+5-create respository in github 
+6- copy shh url
+7(git remote add origin url)-this adds the link of respository where the local respository is to be pushed
+8(git push origin main)-this push code to the remote repo
+
+
+C-steps if we want to fix the default repo we wish to push code(upstream)
+git push -u origin main
