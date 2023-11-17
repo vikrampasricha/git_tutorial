@@ -20,3 +20,25 @@ B-steps if we have created new respository local and to push it to github
 
 C-steps if we want to fix the default repo we wish to push code(upstream)
 git push -u origin main
+
+
+to create a pr of changes made in new branch
+git push - u origin branch_name
+review changes and write what is changed
+
+
+
+to bring changes made in main branch to local pc 
+git pull origin branch_name
+
+
+to undo the changes in git
+git reset file_name or.
+git reset HEAD~1-if we have added and commited the file,it will take back 2 steps back ,this statemnt means we want to go back +1 steps back from current back
+
+
+if we want to go particular commit from git log but the changes will not go
+git reset log_id
+
+if we want the changes to go and remove lines after that commit
+git reset --hard log_id

@@ -3,3 +3,5 @@ git checkout branchname- it is used to switch between branches
 git diff branch_name-it is used to check what is different in 2 branches ,here branch_name is the branch from 
 which we want to compare current branch
 git merge branch_tobe_merged-it is used to merge 2 branches 
+git branch -d branch_name- to delete branch after it is merged
+
